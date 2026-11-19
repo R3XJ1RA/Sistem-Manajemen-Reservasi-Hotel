@@ -1,0 +1,50 @@
+[
+    {
+        "id": "RES-001",
+        "nama": "Hera",
+        "nama_tamu": "101",
+        "kamar": "Standard",
+        "jenis_kamar": "Standard",
+        "jumlah_tamu": 3,
+        "nomor_kamar": "101",
+        "tanggal": "14-11-2026",
+        "check_in": "2026-11-14",
+        "check_out": "2026-11-15",
+        "jumlah_malam": 1,
+        "harga_per_malam": 250000,
+        "total_biaya": 250000,
+        "status": "Dikonfirmasi"
+    },
+    {
+        "id": "RES-002",
+        "nama": "Hera",
+        "nama_tamu": "102",
+        "kamar": "Deluxe",
+        "jenis_kamar": "Deluxe",
+        "jumlah_tamu": 3,
+        "nomor_kamar": "102",
+        "tanggal": "14-11-2026",
+        "check_in": "2026-11-14",
+        "check_out": "2026-11-15",
+        "jumlah_malam": 1,
+        "harga_per_malam": 400000,
+        "total_biaya": 400000,
+        "status": "Dikonfirmasi"
+    },
+    {
+        "id": "RES-003",
+        "nama": "Lando",
+        "nama_tamu": "Rina",
+        "kamar": "Suite",
+        "jenis_kamar": "Suite",
+        "jumlah_tamu": 4,
+        "nomor_kamar": "103",
+        "tanggal": "16-11-2026",
+        "check_in": "2026-11-16",
+        "check_out": "2026-11-17",
+        "jumlah_malam": 1,
+        "harga_per_malam": 650000,
+        "total_biaya": 650000,
+        "status": "Dikonfirmasi"
+    }
+]

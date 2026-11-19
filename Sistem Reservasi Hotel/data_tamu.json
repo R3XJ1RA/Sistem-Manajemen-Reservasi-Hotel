@@ -1,0 +1,26 @@
+[
+    {
+        "id": "001",
+        "nama": "101",
+        "telepon": "08123809123",
+        "nomor_kamar": "101"
+    },
+    {
+        "id": "002",
+        "nama": "102",
+        "telepon": "019230128301",
+        "nomor_kamar": "102"
+    },
+    {
+        "id": "003",
+        "nama": "Rina",
+        "telepon": "0182938012",
+        "nomor_kamar": "103"
+    },
+    {
+        "id": "004",
+        "nama": "Budi",
+        "telepon": "0819238012",
+        "nomor_kamar": "101"
+    }
+]

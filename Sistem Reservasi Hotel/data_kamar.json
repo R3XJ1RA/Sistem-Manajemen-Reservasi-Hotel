@@ -1,0 +1,23 @@
+[
+    {
+        "nomor": "101",
+        "jenis": "Standard",
+        "harga": 250000,
+        "status": "Full",
+        "status_reservasi": "Booked"
+    },
+    {
+        "nomor": "102",
+        "jenis": "Deluxe",
+        "harga": 400000,
+        "status": "Full",
+        "status_reservasi": "Booked"
+    },
+    {
+        "nomor": "103",
+        "jenis": "Suite",
+        "harga": 650000,
+        "status": "Full",
+        "status_reservasi": "Booked"
+    }
+]
